@@ -1,0 +1,43 @@
+format: jb-book
+root: index
+parts:
+  - caption: Overview
+    chapters:
+      - file: daisi-overview/deploy-daisi
+      - file: daisi-overview/share-daisi
+      - file: daisi-overview/discover-daisi
+      - file: daisi-overview/community-edition
+
+  - caption: pyDaisi User Guide
+    chapters:
+      - file: pydaisi/installation
+      - file: pydaisi/authentication
+      - file: pydaisi/executing-daisies
+      - file: pydaisi/map-parallel-executions
+      - file: pydaisi/hardware-selection
+      - file: pydaisi/data-storage-access
+  
+  - caption: RDaisi User Guide
+    chapters:
+      - file: rdaisi/authentication
+      - file: rdaisi/executing-daisies
+      - file: rdaisi/response-object
+      - file: rdaisi/data-storage-access
+  
+  - caption: Use cases
+    chapters:
+      - file: use-cases/deploy-ml-model
+      - file: use-cases/create-microservice
+      - file: use-cases/run-massively-parallel
+      - file: use-cases/add-a-ui-streamlit
+      - file: use-cases/schedule-airflow-daisies
+  
+  - caption: API Reference
+    chapters:
+      - file: api/Daisi
+      - file: api/SharedData
+      - file: api/DaisiExecution
+
+
+
+
