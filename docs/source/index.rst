@@ -6,7 +6,7 @@ Daisi's documentation
 
 **Daisi** `(app.daisi.io) <https://app.daisi.io>`_ is a distributed Cloud Computing platform running Python serverless functions, named *daisies*.   
 
-Daisi brings the power of cloud computing into the hands of every developer, scientist, engineer by turning your code into serverless functions instantly and letting you calling it seamlessly.
+Daisi brings the power of cloud computing into the hands of every developer, scientist, engineer by adding endpoints automatically and letting anyone calling it seamlessly from any environment.
 
 Serverless means that there is no need to manage infrastructure, with the ability to scale elastically depending on the demand.   
 

@@ -7,7 +7,7 @@ pyDaisi currently supports Linux, MacOS and Windows.
 
 .. note::
     
-    pyDaisi requires Python 3.7 or higher.
+    pyDaisi requires Python 3.8 or higher.
 
 Official Releases
 -----------------

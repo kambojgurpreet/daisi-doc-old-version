@@ -95,7 +95,7 @@ html_static_path = ['_static']
 html_css_files = [
     '_static/css/custom.css',
 ]
-html_logo = "daisi-transparent-full.svg"
+html_logo = "images/daisi-transparent-full.svg"
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
