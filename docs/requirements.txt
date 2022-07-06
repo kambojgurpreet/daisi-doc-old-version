@@ -40,7 +40,7 @@ jedi==0.18.1
 Jinja2==3.0.3
 jsonpointer==2.3
 jsonschema==4.4.0
-lxml==4.8.0
+lxml==4.9.1
 markdown-it-py==1.1.0
 MarkupSafe==2.1.1
 mdit-py-plugins==0.2.8
