@@ -49,7 +49,7 @@ environment variable as follow:
 .. code-block:: python
 
     import os
-    os.environ["ACCESS_TOKEN"] = <your access token>
+    os.environ["DAISI_ACCESS_TOKEN"] = <your access token>
 
 
 With a Shell environment variable
